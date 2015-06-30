@@ -1,8 +1,8 @@
 {
   "name": "edx-theme",
   "private": true,
-  "homepage": "https://github.com/negritobomb/edx-theme-uvp",
-  "description": "Open edX theme for UVP",
+  "homepage": "https://github.com/negritobomb/edx-theme-chapingo",
+  "description": "Open edX theme for Chapingo",
   "license": "AGPL",
   "dependencies": {
     "bootstrap": "~3.3.0",

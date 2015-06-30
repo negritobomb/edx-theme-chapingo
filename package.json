@@ -1,10 +1,10 @@
 {
   "name": "edx-theme",
   "private": true,
-  "description": "Open edX theme for UVP",
+  "description": "Open edX theme for Chapingo",
   "repository": {
     "type": "git",
-    "url": "git://github.com/negritobomb/edx-theme-uvp.git"
+    "url": "git://github.com/negritobomb/edx-theme-chapingo.git"
   },
   "scripts": {
     "test": "grunt test"
